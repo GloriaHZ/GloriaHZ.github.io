@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Do you want to know more about me?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+嗨，你好！你喜欢把生活中一些珍贵的转瞬即逝的瞬间记录下来吗，你喜欢日出和日落的彩霞满天吗？你喜欢鸟窝吗？你喜欢藏着千年历史变迁的石头吗？生活中的点滴美好时光，酝酿一页幸福的生活篇章！喜欢的话，就常来吧，这里是我的网站，我是Gloria，今年11岁，喜欢摄影，编程，体育，画画。希望我的作品能给你去除烦恼，带来快乐！
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+Hi, hello! Do you like to record some of the precious fleeting moments in your life? Do you like the sunrise and sunset? Do you like bird's nests? Do you like stones that hide thousands of years of history? A little good time in life, brewing a happy chapter of life! I'm Gloria. I'm 11 years old. I like photography, programming, sports, drawing. I hope that my works bring you happiness!
 
 ### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I love birds and I live with 5 cockatiels at home. They are freely flying at home and enjoy singing and playing with me. My faviourite cockatiel is Pineapple. He's a male yellow bird with beautiful feathers and a lovely song.
